@@ -1,0 +1,10 @@
+    /* --- Addon: Custom Subreddit Name Logo --- */
+    .pagename a {
+        background: url(%%logo-small%%);
+        height: 51px;
+        width: 360px;
+        display: inline-block;
+        text-indent: -9999em;
+    }
+
+    /* --- End Addon --- */

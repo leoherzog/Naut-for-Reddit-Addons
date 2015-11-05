@@ -1,0 +1,9 @@
+    /* --- Addon: Sidebar Image! --- */
+    /*
+    Instructions:
+    Install this Addon, then upload an image called "sidebar".
+    Then, simply add "[](/sidebar)" to anywhere in the Subreddit text (under Subreddit Settings).
+    */
+    a[href="/sidebar"]:after { content: url(%%sidebar%%) }
+
+    /* --- End Addon --- */

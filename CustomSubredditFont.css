@@ -1,0 +1,12 @@
+    /* --- Custom sub-wide font --- */
+    /*
+    Instructions:
+    Replace fonts on bottom line with any fonts you'd like to use.
+    User must have fonts installed on their local machines.
+    Reddit does not support XSS Imported Fonts, like Google Fonts.
+    For this reason, always include fallback "web safe" fonts.
+    */
+    body, #header .pagename a, #header .tabmenu li a, #mail.havemail:before, .side:after, .morelink, .side .md ol, .side .titlebox .md h3 a, .linkflairlabel, .link .title, .entry .tagline, .entry .buttons li a, .link .entry .buttons li .redditSingleClick, .comment .entry .tagline, .wiki-page .wikititle, .flair, .res .content .RESBigEditorPop, .side .md .-blocks, .side .md .-lists, .side .md pre, .side .md blockquote, .side .md table, .side .md p, .side .md ul, .side .md ol, .titlebox h1, .discuss-ad, .flat-vert.title, .linkinfo, #search input[type=text], button, textarea, input
+    {font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif}
+
+    /* --- End Addon --- */
