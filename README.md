@@ -4,27 +4,27 @@ A collection of addons by [Agent L Productions](http://agentl.productions) for [
 
 - - -
 
-## Custom Subreddit Font
+### Custom Subreddit Font
 
 Adopt a custom font for your whole subreddit. Font must exist on the user's local machine, so be sure to include web-safe fallbacks.
 
-## Custom Subreddit Name Logo
+### Custom Subreddit Name Logo
 
 Change the /r/Whatever text to be an image of your choice
 
-## Full Screen Subreddit Bar
+### Full Screen Subreddit Bar
 
 Based off of work in [/r/Android](https://reddit.com/r/Android) and [/r/Nexus6P](https://reddit.com/r/Nexus6P). By default, Naut clips off the Subreddits bar at the top of the screen and puts user info in the top right corner. This moves the userbar down and expands the Subreddit bar to be full-width again!
 
-## Sidebar Image
+### Sidebar Image
 
 If you want to add an  image in your sidebar, here's an easy way to do so. Make sure it's the right width (268px by default in Naut)!
 
-## Sliding and Spinning Subreddit Logo
+### Sliding and Spinning Subreddit Logo
 
 A simple little CSS animation for your Sub's logo. Demo available at [/r/ProjectFi](https://github.com/r/ProjectFi)
 
-## Sliding Subreddit Logo
+### Sliding Subreddit Logo
 
 An even simpler CSS animation for your Sub's logo. Just spins! Demo available at [/r/Nexus5X](https://github.com/r/Nexus5X]
 
