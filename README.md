@@ -26,7 +26,7 @@ A simple little CSS animation for your Sub's logo. Demo available at [/r/Project
 
 ### Sliding Subreddit Logo
 
-An even simpler CSS animation for your Sub's logo. Just spins! Demo available at [/r/Nexus5X](https://github.com/r/Nexus5X]
+An even simpler CSS animation for your Sub's logo. Just spins! Demo available at [/r/Nexus5X](https://github.com/r/Nexus5X)
 
 - - -
 
