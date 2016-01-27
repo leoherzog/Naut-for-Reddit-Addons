@@ -22,11 +22,11 @@ If you want to add an  image in your sidebar, here's an easy way to do so. Make 
 
 ### Sliding and Spinning Subreddit Logo
 
-A simple little CSS animation for your Sub's logo. Demo available at [/r/ProjectFi](https://github.com/r/ProjectFi)
+A simple little CSS animation for your Sub's logo. Demo available at [/r/ProjectFi](https://reddit.com/r/ProjectFi)
 
 ### Sliding Subreddit Logo
 
-An even simpler CSS animation for your Sub's logo. Just spins! Demo available at [/r/Nexus5X](https://github.com/r/Nexus5X)
+An even simpler CSS animation for your Sub's logo. Just spins! Demo available at [/r/Nexus5X](https://reddit.com/r/Nexus5X)
 
 - - -
 
