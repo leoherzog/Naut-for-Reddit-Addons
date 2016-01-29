@@ -1,6 +1,6 @@
-# Naut for Reddit Addons
+# Naut for Reddit v3.2 Addons
 
-A collection of addons by [Agent L Productions](http://agentl.productions) for [Naut for Reddit](https://github.com/Axel--/Naut-for-reddit).
+A collection of addons by [Agent L Productions](http://agentl.productions) for [Naut for Reddit](https://github.com/Axel--/Naut-for-reddit). These addons are **only compatible with Naut v3.2**.
 
 - - -
 
